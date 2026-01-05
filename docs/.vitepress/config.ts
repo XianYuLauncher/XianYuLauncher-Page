@@ -96,7 +96,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/N123999/XianYuLauncher-Help' }
+      { icon: 'github', link: 'https://github.com/XianYuLauncher/XianYuLauncher' }
     ],
     // 布局配置
     sidebar: {
